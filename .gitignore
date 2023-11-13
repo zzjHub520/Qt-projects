@@ -31,4 +31,6 @@
 *.app
 *.pro.user
 CMakeLists.txt.user
-build
+build*
+.idea
+cmake-build-*
