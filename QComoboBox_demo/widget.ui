@@ -6,13 +6,23 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>269</width>
+    <height>397</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>Widget</string>
   </property>
+  <widget class="QComboBox" name="comboBox">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>40</y>
+     <width>201</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
