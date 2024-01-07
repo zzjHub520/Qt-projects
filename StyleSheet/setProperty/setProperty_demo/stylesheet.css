@@ -1,0 +1,14 @@
+
+
+QPushButton {
+    background-color: cyan;
+}
+
+
+QPushButton[status='red'] {
+    background-color: red;
+}
+
+QPushButton[status='blue'] {
+    background-color: blue;
+}
